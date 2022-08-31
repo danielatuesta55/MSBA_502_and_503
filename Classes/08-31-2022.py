@@ -49,13 +49,29 @@ kilometers = 1.61
 marathon_kilometers = marathon_miles * kilometers
 
 #Print the result of the calculation
-print(marathon_kilometers)
+print("There are {} KM in a marathon".format(marathon_kilometers))
 
 #In a function format
-
+#Define the function
 def marathon_in_kilometers(a,b):
-    miles_to_km = a * b
+    miles_to_km = a * b #Create the "formula" to calculate
     return miles_to_km
 
 print("The total KM in a marathon is {}".format(marathon_in_kilometers(26.2,1.61)))
 
+# We are going to create a calculator that creates any amount 
+
+miles = 9000
+km_from_miles= miles * 1.61
+
+print(km_from_miles)
+
+""" Variable (re)assignment
+
+You can overwrite variables they are not immutable
+"""
+
+x=5
+print(x)
+x=9 # X will hold the value 9 and not 5
+print(x)
