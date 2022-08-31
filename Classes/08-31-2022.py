@@ -75,3 +75,24 @@ x=5
 print(x)
 x=9 # X will hold the value 9 and not 5
 print(x)
+
+seuss = "I do not like green eggs and ham"
+print(seuss)
+seuss = "I do not like them Sam I am"
+print(seuss)
+
+""" Conditions (IF) 
+Often, we may want different code to run depending on the situation
+
+Using an if block, any code in the block will run if the condition is true
+"""
+#example of IF statement
+x = 19
+if x>5:
+    print("This only runs if x>5")
+    print("This block is still running")
+print("step 1 complete")
+if x>12:
+    print("x is enormous")
+print("Done")
+
