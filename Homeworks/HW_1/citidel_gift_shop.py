@@ -18,7 +18,7 @@ print("Here is a list of the products being offered today: 1. Plumbuses 2. Meese
 #Declare buy_plumbuses variable with user input
 buy_plumbuses = input('{}, would you like to buy Plumbuses today?'.format(user_name))
 
-#Created first IF statment
+#Created first IF statement
 if buy_plumbuses == "yes":
     number_of_plumbuses = int(input('{}, how many Plumbuses do you need today?'.format(user_name)))
     #Nested IF to get total value of purchase
@@ -71,7 +71,7 @@ else:
 #Declare buy_meeseeks_boxes variable with user input
 buy_meeseeks_boxes = input('{}, would you like to buy Meeseeks Boxes today?'.format(user_name))
 
-#Created second IF statment for the meeseeks boxes
+#Created second IF statement for the meeseeks boxes
 if buy_meeseeks_boxes == "yes":
     number_of_meeseeks_boxes = int(input('{}, how many Meeseeks Boxes do you need today?'.format(user_name)))
     
@@ -138,7 +138,7 @@ buy_portal_fluid = input('{}, would you like to buy Portal Fluid today?'.format(
 
 #Created first IF statement
 if buy_portal_fluid == "yes":
-    number_of_portal_fluid = int(input('{}, how many Portal Fluid do you need today?'.format(user_name)))
+    number_of_portal_fluid = int(input('{}, how many gallons of Portal Fluid do you need today?'.format(user_name)))
     
     #Nested IF to get total value of purchase
     if 0 <= number_of_portal_fluid <= 2.99:
@@ -152,7 +152,7 @@ if buy_portal_fluid == "yes":
         #print current cart
         print("{}, your cart is at ${}. Let's head out to checkout.".format(user_name,total_cart))
    
-    #Created elif statement to get discount bewteen 10 - 18
+    #Created elif statement to get discount between 10 - 18
     elif 3 <= number_of_portal_fluid <= 7:
         
         #get value with discount
