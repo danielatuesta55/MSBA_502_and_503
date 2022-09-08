@@ -30,3 +30,9 @@ if test % 2 == 0:
     print(test,'This number is even')
 else:
     print('This number is odd')
+
+#Homework 3 will need to use modulus since its asking every third year!!!!!!
+
+x = 10 
+
+print(x)
