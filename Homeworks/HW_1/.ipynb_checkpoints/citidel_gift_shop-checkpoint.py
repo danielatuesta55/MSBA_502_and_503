@@ -18,7 +18,7 @@ print("Here is a list of the products being offered today: 1. Plumbuses 2. Meese
 #Declare buy_plumbuses variable with user input
 buy_plumbuses = input('{}, would you like to buy Plumbuses today?'.format(user_name))
 
-#Created first IF statment
+#Created first IF statement
 if buy_plumbuses == "yes":
     number_of_plumbuses = int(input('{}, how many Plumbuses do you need today?'.format(user_name)))
     #Nested IF to get total value of purchase
@@ -71,7 +71,7 @@ else:
 #Declare buy_meeseeks_boxes variable with user input
 buy_meeseeks_boxes = input('{}, would you like to buy Meeseeks Boxes today?'.format(user_name))
 
-#Created second IF statment for the meeseeks boxes
+#Created second IF statement for the meeseeks boxes
 if buy_meeseeks_boxes == "yes":
     number_of_meeseeks_boxes = int(input('{}, how many Meeseeks Boxes do you need today?'.format(user_name)))
     
@@ -112,7 +112,7 @@ if buy_meeseeks_boxes == "yes":
     #Make sure that if a user inputs something wrong it does not crash code so I put the else statement as follows
     else:
         print("{}, that is an invalid number. Please make sure you are typing in whole numbers from 0 to infinity. Let's move on to our next option".format(user_name))
-        total_cart = 0 + total_cart
+        total_cart = 0
         cost_meeseeks_boxes = 0
         number_of_meeseeks_boxes = 0
 elif buy_meeseeks_boxes == "no":
@@ -152,7 +152,7 @@ if buy_portal_fluid == "yes":
         #print current cart
         print("{}, your cart is at ${}. Let's head out to checkout.".format(user_name,total_cart))
    
-    #Created elif statement to get discount bewteen 10 - 18
+    #Created elif statement to get discount between 10 - 18
     elif 3 <= number_of_portal_fluid <= 7:
         
         #get value with discount
@@ -165,7 +165,7 @@ if buy_portal_fluid == "yes":
         print("{}, your cart is at ${}. Let's head out to checkout.".format(user_name,total_cart))
         
     #Created else to finish nested if statement   
-    elif number_of_portal_fluid > 7 :
+    else:
         #get value with discount
         cost_portal_fluid = 6.00 * number_of_portal_fluid
         
@@ -174,14 +174,6 @@ if buy_portal_fluid == "yes":
         
         #print current cart
         print("{}, your cart is at ${} Let's head out to checkout.".format(user_name,total_cart))
-        
-    else:
-        #else clause in case there is a negative number
-        print("{}, that is an invalid number. Please make sure you are typing in whole numbers from 0 to infinity. Let's move on to our next option".format(user_name))
-        total_cart = 0 + total_cart
-        cost_portal_fluid = 0
-        number_of_portal_fluid = 0
-        
 elif buy_portal_fluid == "no":
     #Print statement to take customer to checkout
     print("That's ok, Let's head out to checkout...")   
