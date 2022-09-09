@@ -1,8 +1,5 @@
 <h1 align="center">Citidel Gift Shop</h1>
 
-
-## Welcome to the ONE & ONLY Citidel Gift Shop.
-
 <h3 align="right">The virtual assistant was created by Jorge Daniel Atuesta</h3>
 
 
