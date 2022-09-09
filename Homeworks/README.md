@@ -1,4 +1,4 @@
-# Citidel Gift Shop
+<p align="center"><# Citidel Gift Shop/> </p>
 
 ## Welcome to the ONE & ONLY Citidel Gift Shop.
 
