@@ -21,12 +21,13 @@ Today you will have the chance to select from the following three items:
 Please keep in mind that the more you buy the better the discount. Our sales associate will be with you shortly!
 
 <p align="center">
-  <img width="200" src="https://www.creativefabrica.com/wp-content/uploads/2019/03/Let-the-shopping-begin-Quote-SVG-Cut-by-TheLucky-580x386.jpg"/>
+  <img src="https://www.creativefabrica.com/wp-content/uploads/2019/03/Let-the-shopping-begin-Quote-SVG-Cut-by-TheLucky-580x386.jpg"/>
 </p>
 
 ## How to use our virtual assistant
+<p align ="center">
+    <img width=800 src="https://images.idgesg.net/images/article/2018/05/smartphone-hotspot_laptop_syncing-devices_mobile-wifi-100758745-large.jpg?auto=webp&quality=85,70">
 
-![how_to_use](https://images.idgesg.net/images/article/2018/05/smartphone-hotspot_laptop_syncing-devices_mobile-wifi-100758745-large.jpg?auto=webp&quality=85,70)
 
 1. Please remember to always use lower case when creating inputs and no spaces!
 2. Stick to 'yes' and 'no' when prompted
