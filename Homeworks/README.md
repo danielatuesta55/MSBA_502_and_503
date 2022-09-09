@@ -3,7 +3,7 @@
 
 ## Welcome to the ONE & ONLY Citidel Gift Shop.
 
-#### The virtual assistant was created by Jorge Daniel Atuesta
+<h3 align="right">The virtual assistant was created by Jorge Daniel Atuesta</h3>
 
 
 <p align="center">
