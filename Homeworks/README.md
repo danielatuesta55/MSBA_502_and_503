@@ -1,4 +1,5 @@
-<p align="center"><# Citidel Gift Shop/> </p>
+<h1 align="center">Citidel Gift Shop</h1>
+
 
 ## Welcome to the ONE & ONLY Citidel Gift Shop.
 
@@ -20,7 +21,7 @@ Today you will have the chance to select from the following three items:
 Please keep in mind that the more you buy the better the discount. Our sales associate will be with you shortly!
 
 <p align="center">
-  <img src="https://www.creativefabrica.com/wp-content/uploads/2019/03/Let-the-shopping-begin-Quote-SVG-Cut-by-TheLucky-580x386.jpg"/>
+  <img width="200" src="https://www.creativefabrica.com/wp-content/uploads/2019/03/Let-the-shopping-begin-Quote-SVG-Cut-by-TheLucky-580x386.jpg"/>
 </p>
 
 ## How to use our virtual assistant
