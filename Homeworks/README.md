@@ -1,6 +1,8 @@
 # Citidel Gift Shop
 
-Welcome to the ONE & ONLY Citidel Gift Shop.
+## Welcome to the ONE & ONLY Citidel Gift Shop.
+
+#### The virtual assistant was created by Jorge Daniel Atuesta
 
 ![Welcome](https://media.istockphoto.com/photos/buying-souvenirs-in-greek-gift-shop-on-vacation-picture-id1125897334?k=20&m=1125897334&s=612x612&w=0&h=ixSZ-H3-0RjFzEAl7UnITaFv8io6cXIxQNCtHYMEIoc=)
 
