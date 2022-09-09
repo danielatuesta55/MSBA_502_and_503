@@ -177,7 +177,7 @@ if buy_portal_fluid == "yes":
         
     else:
         #else clause in case there is a negative number
-        print("{}, that is an invalid number. Please make sure you are typing in whole numbers from 0 to infinity. Let's move on to our next option".format(user_name))
+        print("{}, that is an invalid number. Please make sure you are typing in whole numbers from 0 to infinity. This was the last option, I am taking you to the checkout".format(user_name))
         total_cart = 0 + total_cart
         cost_portal_fluid = 0
         number_of_portal_fluid = 0
