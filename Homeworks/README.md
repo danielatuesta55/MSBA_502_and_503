@@ -1,6 +1,6 @@
 <h1 align="center">Citidel Gift Shop</h1>
 
-<h3 align="right">The virtual assistant was created by Jorge Daniel Atuesta</h3>
+<h5 align="right">The virtual assistant was created by Jorge Daniel Atuesta</h5>
 
 
 <p align="center">
