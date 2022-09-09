@@ -26,7 +26,7 @@ Please keep in mind that the more you buy the better the discount. Our sales ass
 
 ## How to use our virtual assistant
 <p align ="center">
-    <img width=800 src="https://images.idgesg.net/images/article/2018/05/smartphone-hotspot_laptop_syncing-devices_mobile-wifi-100758745-large.jpg?auto=webp&quality=85,70">
+    <img width=700 src="https://images.idgesg.net/images/article/2018/05/smartphone-hotspot_laptop_syncing-devices_mobile-wifi-100758745-large.jpg?auto=webp&quality=85,70">
 
 
 1. Please remember to always use lower case when creating inputs and no spaces!
