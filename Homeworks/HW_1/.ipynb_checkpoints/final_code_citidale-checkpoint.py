@@ -3,7 +3,7 @@
 
 #Get the users name from input 
 
-user_name = input('Hi and welcome to Citidel Gift Shop. Can I please get a name for the order?').capitalize().strip()
+user_name = input('Hi and welcome to Citidel Gift Shop. Can I please get a name for the order?').capitalize()
 
 #Extra space
 print()
@@ -24,7 +24,7 @@ print()
 
 #First purchase
 #Declare buy_plumbuses variable with user input
-buy_plumbuses = input('{}, would you like to buy Plumbuses today?'.format(user_name)).lower().strip()
+buy_plumbuses = input('{}, would you like to buy Plumbuses today?'.format(user_name)).lower()
 #Extra space
 print()
 
