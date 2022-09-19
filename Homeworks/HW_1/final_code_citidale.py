@@ -30,7 +30,7 @@ print()
 
 #Created first IF statement
 if buy_plumbuses == "yes":
-    number_of_plumbuses = int(input('{}, how many Plumbuses do you need today?'.format(user_name)))
+    number_of_plumbuses = int(input('{}, how many Plumbuses do you need today?'.format(user_name))).strip()
     #Nested IF to get total value of purchase
     if 0<= number_of_plumbuses <= 5:
         #Create variable to hold total price for the amount of boxes user required
@@ -102,7 +102,7 @@ buy_meeseeks_boxes = input('{}, would you like to buy Meeseeks Boxes today?'.for
 if buy_meeseeks_boxes == "yes":
     #Extra space
     print()
-    number_of_meeseeks_boxes = int(input('{}, how many Meeseeks Boxes do you need today?'.format(user_name)))
+    number_of_meeseeks_boxes = int(input('{}, how many Meeseeks Boxes do you need today?'.format(user_name))).strip()
     
     #Nested IF to get total value of purchase
     if 0 <= number_of_meeseeks_boxes <= 9:
@@ -184,7 +184,7 @@ buy_portal_fluid = input('{}, would you like to buy Portal Fluid today?'.format(
 if buy_portal_fluid == "yes":
     #Extra space
     print()
-    number_of_portal_fluid = int(input('{}, how many gallons of Portal Fluid do you need today?'.format(user_name)))
+    number_of_portal_fluid = int(input('{}, how many gallons of Portal Fluid do you need today?'.format(user_name))).strip()
     
     #Nested IF to get total value of purchase
     if 0 <= number_of_portal_fluid <3:
