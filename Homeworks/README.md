@@ -55,7 +55,7 @@ This unique too will allow you to analyze galaxies, planets, and their planetary
 
 If you follow the steps correctly you will see the final output display the number of galaxies you chose the number of total planets and who many their are on average on each galaxy. You will also see the average planetary income and average galactic income. Furthermore, you will also see the income distribution of the galaxy! 
 
-<h5 align="center">Good luck inn your Quest!</h5>
+<h5 align="center">Good luck in your Quest!</h5>
 <p align="center">
   <img width=600 src=https://media.giphy.com/media/5zf2M4HgjjWszLd4a5/giphy.gif>
 </p>
