@@ -7,8 +7,11 @@
   <img width=800 height=500 src=https://media.giphy.com/media/zMaCuiamKtuMM/giphy.gif>
 </p>
 
-### Welcome to the Galaxy Analyzer tool! 
-This unique too will allow you to analyze galaxies, planets, and their planetary incomes. Here are the steps you need to follow to get your results:
+<h1 align="center">Welcome to the Galaxy Analyzer Tool!</h1>
+<h6 align="right">This code was created by Jorge Daniel Atuesta on September 25th 2022</h6>
+
+
+This unique tool will allow you to analyze galaxies, planets, and their planetary incomes. Here are the steps you need to follow to get your results:
 1. When prompted please enter you name
 2. Enter the number of galaxies you would like to analyze
 3. The number of plantes in each of the galaxies
