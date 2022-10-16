@@ -3,6 +3,7 @@
 ## List of projects
 1. Citidel Gift Shop
 2. Galaxy Analyzer
+3. Fishing Simulator
 
 
 <h2 align="center">Project 1: Citidel Gift Shop</h2>
@@ -62,3 +63,6 @@ If you follow the steps correctly you will see the final output display the numb
 <p align="center">
   <img width=600 src=https://media.giphy.com/media/5zf2M4HgjjWszLd4a5/giphy.gif>
 </p>
+
+<h2 align="center"> Project 3: Fishing Simulator</h2>
+
