@@ -1,3 +1,0 @@
-Circle data report
-Radius: 4.0
-Area: 50.26548245743669
