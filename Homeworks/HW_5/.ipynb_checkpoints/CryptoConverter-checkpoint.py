@@ -44,6 +44,19 @@ def convertCurrency():
         quant = [value2,value1,value3,value4]
         #Showinfo message using tkinter to tell user the conversions file was a success
         tkinter.messagebox.showinfo("Complete", "The conversions where stored in crypto_conversion.csv")
+        
+        #Clear content of text box
+        btc_box.delete(0, tkinter.END)
+        bnb_box.delete(0, tkinter.END)
+        eth_box.delete(0, tkinter.END)
+        xrp_box.delete(0, tkinter.END)
+        
+        #Make sure that 1 is the default value for the text box
+        btc_box.insert(0, 1)
+        bnb_box.insert(0, 1)
+        eth_box.insert(0, 1)
+        xrp_box.insert(0, 1)
+        
     #If values in boxes can not be converted to a float than display error 
     except ValueError:
         tkinter.messagebox.showerror("Error","Sorry, the report could not be written. Check that only numeric values are entered.")
