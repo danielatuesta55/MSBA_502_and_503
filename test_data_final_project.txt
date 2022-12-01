@@ -10,20 +10,5 @@
       "strong_buy": 4,
       "strong_sell": 1,
       "period": 1669852800
-    },
-    {
-      "buy": 14,
-      "hold": 10,
-      "sell": 3,
-      "strong_buy": 12,
-      "strong_sell": 3,
-      "period": 1667260800
-    },
-    {
-      "buy": 15,
-      "hold": 10,
-      "sell": 3,
-      "period": 1480550400
-    }
-  ]
+    }],
 }
