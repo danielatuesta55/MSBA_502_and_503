@@ -1,0 +1,68 @@
+[
+    {
+        "ticker": "BYDDF.US",
+        "name": "BYD Co Ltd-H",
+        "price": 25.635,
+        "change_1d_prc": 9.927101200686117
+    },
+    {
+        "ticker": "BYDDY.US",
+        "name": "BYD Co Ltd ADR",
+        "price": 51.22,
+        "change_1d_prc": 9.843448423761526
+    },
+    {
+        "ticker": "TSLA.US",
+        "name": "Tesla Inc",
+        "price": 194.7,
+        "change_1d_prc": 7.67018746889343
+    },
+    {
+        "ticker": "MBGAF.US",
+        "name": "Mercedes-Benz Group AG",
+        "price": 67.815,
+        "change_1d_prc": 4.572089437162696
+    },
+    {
+        "ticker": "BMWYY.US",
+        "name": "Bayerische Motoren Werke AG ADR",
+        "price": 30.3,
+        "change_1d_prc": 3.3071939993181143
+    },
+    {
+        "ticker": "VWAPY.US",
+        "name": "Volkswagen AG Pref 1/10 ADR",
+        "price": 14.71,
+        "change_1d_prc": 3.228070175438602
+    },
+    {
+        "ticker": "VLKAF.US",
+        "name": "Volkswagen AG",
+        "price": 193.25,
+        "change_1d_prc": 2.7925531914893664
+    },
+    {
+        "ticker": "VWAGY.US",
+        "name": "Volkswagen AG 1/10 ADR",
+        "price": 19.24,
+        "change_1d_prc": 2.503995737879583
+    },
+    {
+        "ticker": "TOYOF.US",
+        "name": "Toyota Motor Corp",
+        "price": 14.79,
+        "change_1d_prc": 2.0000000000000018
+    },
+    {
+        "ticker": "TM.US",
+        "name": "Toyota Motor Corporation ADR",
+        "price": 147.69,
+        "change_1d_prc": 1.5749656121045286
+    },
+    {
+        "ticker": "VLKPF.US",
+        "name": "Volkswagen AG VZO O.N.",
+        "price": 143.0,
+        "change_1d_prc": -0.694444444444442
+    }
+]
